@@ -4,7 +4,9 @@ TODO
 Gemfile.lock
 rdoc/
 doc/
-bin
+pkg/
+coverage/
 .bundle
+.rbx
 *.swp
 *.swo
