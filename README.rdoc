@@ -153,9 +153,11 @@ Here are some more specific TODOs.
 
 (The MIT License)
  
-Copyright (c) 2009:
+Copyright (c) 2009-2012:
  
 {Paul Dix}[http://pauldix.net]
+{Julien Kirch}[https://github.com/archiloque]
+{Ezekiel Templin}[https://github/ezkl]
  
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
