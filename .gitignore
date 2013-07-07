@@ -1,11 +1,11 @@
 .DS_Store
-.rvmrc
 TODO
 Gemfile.lock
 rdoc/
 doc/
 pkg/
 coverage/
+tmp/
 .rbx
 .bundle
 *.swp
